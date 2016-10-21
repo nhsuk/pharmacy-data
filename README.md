@@ -23,3 +23,17 @@ a data set from 01/10/2016 to 10/10/2016 would have the name
 In order for the diff report to contain only the changes in `pharmacy-list.json`
 the file should be comitted on its own.
 
+## Moar reporting
+
+Should there wish to be any additional reporting on the changes e.g. how many
+changes to the `opens` property were there, a useful command to run is:
+```
+cat <file> | grep -c "opens"
+```
+which will return the number of lines `opens` is on.
+
+The count of lines where patterns do not occur is just as easy:
+```
+cat <file> | grep -cv @@
+```
+This is especially useful for counting the number of changes there are in total.
