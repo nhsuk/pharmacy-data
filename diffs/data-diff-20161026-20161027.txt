@@ -1,0 +1,298 @@
+diff --git a/pharmacy-list.json b/pharmacy-list.json
+index 195e676..24471cf 100644
+--- a/pharmacy-list.json
++++ b/pharmacy-list.json
+@@ -49857 +49857 @@
+            "website": [-null-]{+"http://www.pearlchemistgroup.co.uk"+}
+@@ -49935 +49935 @@
+        "summary": [-""-]{+"<p>Fairoak Pharmacy is located near the corner of Mitcham Lane and Southcroft Road.</p><br /><p>&nbsp;</p>"+}
+@@ -75460 +75460 @@
+                        "closes": [-"18:00",-]{+"13:00",+}
+@@ -75461,0 +75462,4 @@
+                    {+},+}
+{+                    {+}
+{+                        "closes": "18:00",+}
+{+                        "opens": "14:00"+}
+@@ -75466 +75470 @@
+                        "closes": [-"18:00",-]{+"13:00",+}
+@@ -75467,0 +75472,4 @@
+                    {+},+}
+{+                    {+}
+{+                        "closes": "18:00",+}
+{+                        "opens": "14:00"+}
+@@ -75474 +75482 @@
+                        "closes": [-"18:00",-]{+"13:00",+}
+@@ -75475,0 +75484,4 @@
+                    {+},+}
+{+                    {+}
+{+                        "closes": "18:00",+}
+{+                        "opens": "14:00"+}
+@@ -75480 +75492 @@
+                        "closes": [-"18:00",-]{+"13:00",+}
+@@ -75481,0 +75494,4 @@
+                    {+},+}
+{+                    {+}
+{+                        "closes": "18:00",+}
+{+                        "opens": "14:00"+}
+@@ -75486 +75502 @@
+                        "closes": [-"18:00",-]{+"13:00",+}
+@@ -75487,0 +75504,4 @@
+                    {+},+}
+{+                    {+}
+{+                        "closes": "18:00",+}
+{+                        "opens": "14:00"+}
+@@ -97211,3 +97231,3 @@
+            "line1": {+"Knights Pharmacy",+}
+{+            "line2":+} "46-48 Church Street",[-"line2": "Bilsthorpe",-]
+            "line3": [-null,-]{+"Bilsthorpe",+}
+@@ -97218 +97238 @@
+            "email": [-"david@pharmacy.ltd.uk.com",-]{+"knights.bilsthorpe@knightspharmacy.co.uk",+}
+@@ -97221,2 +97241,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -97272,4 +97291,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "08:30"-]
+[-                    },-]
+[-                    {-]
+@@ -97277 +97293 @@
+                        "opens": [-"14:00"-]{+"08:30"+}
+@@ -97289,4 +97304,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "08:30"-]
+[-                    },-]
+[-                    {-]
+@@ -97294 +97306 @@
+                        "opens": [-"14:00"-]{+"08:30"+}
+@@ -97299,4 +97310,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "08:30"-]
+[-                    },-]
+[-                    {-]
+@@ -97304 +97312 @@
+                        "opens": [-"14:00"-]{+"08:30"+}
+@@ -97309,4 +97316,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "08:30"-]
+[-                    },-]
+[-                    {-]
+@@ -97314 +97318 @@
+                        "opens": [-"14:00"-]{+"08:30"+}
+@@ -97323 +97327 @@
+        "summary": [-"<p>David A Wilde Ltd-]{+"<p>Knights+} Pharmacy is a teaching practice. There [-are two-]{+is one+} registered [-tutors-]{+tutor+} at the practice who [-train students-]{+trains a student+} who [-have-]{+has+} passed their Masters Degree in pharmacy for twelve months to enable them to take the general Pharmacy Councils final examination for qualification to practice as a Pharmacist in the&nbsp; United Kingdom</p>"
+@@ -144821 +144825 @@
+                        "closes": [-"11:00",-]{+"12:30",+}
+@@ -196251,2 +196255,2 @@
+            "county": [-"",-]{+"Wiltshire",+}
+            "line1": "The [-Protway-]{+Portway+} Centre",
+@@ -196259,2 +196263,2 @@
+            "email": [-"jith@sarum-pharmacy.co.uk",-]{+"customercare@sarum-pharmacy.co.uk",+}
+            "fax": "01722 [-568266",-]{+440346",+}
+@@ -196262,2 +196266,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -285969 +285973 @@
+        "name": [-"Rochmills",-]{+"Moulton Pharmacy",+}
+@@ -311144 +311148 @@
+            "email": [-"fieldspharmacy@npanet.co.uk",-]{+"fieldspharmacy40@btconnect.com",+}
+@@ -311147,2 +311151,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -338996,2 +339000,2 @@
+            "city": [-"Merseyside",-]{+"Southport",+}
+            "county": [-"",-]{+"Merseyside",+}
+@@ -339000 +339004 @@
+            "line3": [-"Southport",-]{+null,+}
+@@ -339005,2 +339009,2 @@
+            "email": [-null,-]{+"crossens@healthylivingpharmacies.co.uk",+}
+            "fax": [-null,-]{+"01704 226 922",+}
+@@ -339008,2 +339012,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -339011,2 +339015,2 @@
+            "telephoneNumber": "01704 [-229120",-]{+229 120",+}
+            "website": [-null-]{+"http://www.healthylivingpharmacies.co.uk"+}
+@@ -339044 +339048,37 @@
+        "openingTimes": [-null,-]{+{+}
+{+            "alterations": {},+}
+{+            "general": {+}
+{+                "friday": [+}
+{+                    {+}
+{+                        "closes": "17:30",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "monday": [+}
+{+                    {+}
+{+                        "closes": "17:30",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "saturday": [],+}
+{+                "sunday": [],+}
+{+                "thursday": [+}
+{+                    {+}
+{+                        "closes": "17:30",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "tuesday": [+}
+{+                    {+}
+{+                        "closes": "17:30",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "wednesday": [+}
+{+                    {+}
+{+                        "closes": "17:30",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ]+}
+{+            }+}
+{+        },+}
+@@ -390529 +390569 @@
+                        "closes": [-"20:00",-]{+"22:00",+}
+@@ -390535 +390575 @@
+                        "closes": [-"20:00",-]{+"22:00",+}
+@@ -390541 +390581 @@
+                        "closes": [-"19:00",-]{+"22:00",+}
+@@ -390553 +390593 @@
+                        "closes": [-"20:00",-]{+"22:00",+}
+@@ -390559 +390599 @@
+                        "closes": [-"20:00",-]{+"22:00",+}
+@@ -390565 +390605 @@
+                        "closes": [-"20:00",-]{+"22:00",+}
+@@ -412284 +412324 @@
+        "parkingInformation": "Free car parking for up to [-2 hours!",-]{+1 hour!",+}
+@@ -412286 +412326 @@
+        "summary": "<p>We are an &nbsp;independently family run pharmacy and serve the communities of Dartford and the surrounding areas of Bexley, Crayford and Wilmington . We strive to provide the best care and service and to build our pharmacy around the needs of our [-patients</p>"-]{+patients</p><br /><p><strong>PATIENT SATISFACTION SURVERY</strong></p><br /><p>We conduct a patient satisfaction survey each year and we are pleased to announce that 97% of our patients were satisfied with the time it took for the prescriptions to be provided. The cleanliness of the Pharmacy was rated at by 98% of our patients as being very good. &nbsp;We constantly strive to improve standards and welcome any feedback.</p><br /><p>TIME IT TOOK RECIEVE PHARMACY SERVICES</p><br /><p><img src=\"https://www.pharmacysurveys.co.uk/temp/10421991_3ac_18888.png\" alt=\"\" /></p><br /><p>&nbsp;</p>"+}
+@@ -620076 +620116 @@
+        "parkingInformation": [-null,-]{+"On street parking available outside the pharmacy.",+}
+@@ -660307 +660347 @@
+                        "closes": [-"18:00",-]{+"19:00",+}
+@@ -701601,2 +701641,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -701604 +701644 @@
+            "telephoneNumber": [-"01744 643847",-]{+"0345 671 9418",+}
+@@ -741807 +741847 @@
+            "line1": [-"46-50 Warwick Road",-]{+"58 english street",+}
+@@ -741810 +741850 @@
+            "postcode": [-"CA1 1DN"-]{+"CA3 8HS"+}
+@@ -741817,2 +741857,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -741847,2 +741887,2 @@
+                [--2.931368589401245,-]
+[-                54.89270782470703-]{+-2.935500144958496,+}
+{+                54.893367767333984+}
+@@ -817033 +817073 @@
+                        "opens": [-"08:00"-]{+"07:00"+}
+@@ -817053 +817093 @@
+                        "opens": [-"08:00"-]{+"07:00"+}
+@@ -863526,2 +863566,2 @@
+            "city": [-"",-]{+"Bishop Auckland",+}
+            "county": [-"",-]{+"Durham",+}
+@@ -863529,2 +863569,2 @@
+            "line2": [-"Bishop Auckland",-]{+null,+}
+            "line3": [-"County Durham",-]{+null,+}
+@@ -863535 +863575 @@
+            "email": [-null,-]{+"steve@mandmpharmacies.co.uk",+}
+@@ -863538,2 +863578,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -863541,2 +863581,2 @@
+            "telephoneNumber": [-null,-]{+"01388 450943",+}
+            "website": [-null-]{+"http://www.mandmchemists.co.uk/"+}
+@@ -863620 +863660 @@
+        "summary": [-null-]{+"<p><strong><em>Your Health Our Concern</em></strong></p><br /><p>M &amp; M is a small family business based in County Durham. We have 4 retail pharmacies and two delivery branches. We started trading over 40 years ago at Meadowfield and have gradually increased in size, whilst maintaining our core aim which is to provide the best possible service, advice and care to all our customers and patients.</p><br /><p><strong>Investors in People</strong></p><br /><p>We pride ourselves, on our staff, and their achievements and training. We were awarded Investors in People in 2004, 2007, 2010, 2013 and 2016. &nbsp;<br />As well as our registered pharmacists, we have Accredited Checking technicians, registered pharmacy technicians and qualified dispensing assistants in each branch to assist the pharmacists in providing the innovative services below.</p><br /><p><strong>Innovative Services</strong></p><br /><p>Our branches offer innovative services including Medicine Use Reviews, New Medicines service, Smoking cessation, Emergency Hormonal Oral Contraception, seasonal flu vaccinations and Anticoagulation I.N.R. (warfarin) testing and monitoring. We are at the forefront of Pharmacy developments.</p><br /><p><strong>Our Pharmacies</strong></p><br /><p>Our pharmacies vary from a small village pharmacy to high street shop and health centre pharmacy. We offer a full pharmaceutical service to residential, nursing homes and warden controlled housing, giving them help and advice on a regular basis. We are also able to offer a service to those being cared for at home and have a wide number of patients having medication trays delivered to their home. Our online service compliments these perfectly.</p><br /><p>&nbsp;</p>"+}
+@@ -880708,6 +880748,2 @@
+                        "closes": [-"13:00",-]{+"18:15",+}
+                        "opens": [-"09:00"-]
+[-                    },-]
+[-                    {-]
+[-                        "closes": "18:00",-]
+[-                        "opens": "14:00"-]{+"08:30"+}
+@@ -880718,6 +880754,2 @@
+                        "closes": [-"13:00",-]{+"18:15",+}
+                        "opens": [-"09:00"-]
+[-                    },-]
+[-                    {-]
+[-                        "closes": "18:00",-]
+[-                        "opens": "14:00"-]{+"08:30"+}
+@@ -880735,6 +880767,2 @@
+                        "closes": [-"13:00",-]{+"18:15",+}
+                        "opens": [-"09:00"-]
+[-                    },-]
+[-                    {-]
+[-                        "closes": "18:00",-]
+[-                        "opens": "14:00"-]{+"08:30"+}
+@@ -880745,6 +880773,2 @@
+                        "closes": [-"13:00",-]{+"18:15",+}
+                        "opens": [-"09:00"-]
+[-                    },-]
+[-                    {-]
+[-                        "closes": "18:00",-]
+[-                        "opens": "14:00"-]{+"08:30"+}
+@@ -880755,6 +880779,2 @@
+                        "closes": [-"13:00",-]{+"18:15",+}
+                        "opens": [-"09:00"-]
+[-                    },-]
+[-                    {-]
+[-                        "closes": "18:00",-]
+[-                        "opens": "14:00"-]{+"08:30"+}
+@@ -1060471,2 +1060491,2 @@
+                        "closes": [-"16:00",-]{+"17:30",+}
+                        "opens": [-"10:00"-]{+"08:30"+}
+@@ -1176881 +1176901,42 @@
+        "openingTimes": [-null,-]{+{+}
+{+            "alterations": {},+}
+{+            "general": {+}
+{+                "friday": [+}
+{+                    {+}
+{+                        "closes": "19:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "monday": [+}
+{+                    {+}
+{+                        "closes": "19:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "saturday": [+}
+{+                    {+}
+{+                        "closes": "14:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "sunday": [],+}
+{+                "thursday": [+}
+{+                    {+}
+{+                        "closes": "19:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "tuesday": [+}
+{+                    {+}
+{+                        "closes": "19:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "wednesday": [+}
+{+                    {+}
+{+                        "closes": "19:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ]+}
+{+            }+}
+{+        },+}
+@@ -1240633 +1240694 @@
+            "email": [-null,-]{+"may.thomson@nhs.net",+}
+@@ -1240636,2 +1240697,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -1240640 +1240701 @@
+            "website": [-null-]{+"http://www.mayandthomsonpharmacy.co.uk/"+}
+@@ -1240724 +1240785 @@
+        "summary": "<p>We are an established independently family run pharmacy and have been serving the community of Sheerwater and the surrounding areas of Woking and West Byfleet for {+over+} the last 30 years. We strive to provide the best care and service and to build our pharmacy around the needs of our patients.&nbsp;</p><br [-/><div></div>"-]{+/><p><strong>PATIENT SATISFACTION SURVERY</strong></p><br /><p>We conduct a patient satisfaction survey each year and we are pleased to announce that 94% of our patients rated us at being very good at listening to their needs. The service received from our Pharmacist was well appreciated with 90% rating their experience as very good. We constantly strive to improve standards and welcome any feedback.</p><br /><p>LISTENING TO OUR PATIENTS</p><br /><p><img src=\"https://www.pharmacysurveys.co.uk/temp/113_5ac4900.png\" alt=\"\" /></p>"+}
