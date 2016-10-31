@@ -1,0 +1,1192 @@
+diff --git a/pharmacy-list.json b/pharmacy-list.json
+index 109ba08..4d00ee6 100644
+--- a/pharmacy-list.json
++++ b/pharmacy-list.json
+@@ -33989,3 +33989,3 @@
+            "line1": {+null,+}
+{+            "line2":+} "71 High Street",[-"line2": "Bentley",-]
+            "line3": [-"",-]{+"Bentley",+}
+@@ -33995 +33995,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -33999,2 +34016,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -34002,2 +34019,2 @@
+            "telephoneNumber": "01302 [-874553        ",-]{+874553",+}
+            "website": [-null-]{+"http://www.well.co.uk"+}
+@@ -34085 +34102 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -46757 +46774 @@
+            "line3": [-"",-]{+null,+}
+@@ -46765,2 +46782,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -46769 +46786 @@
+            "website": [-null-]{+"http://www.well.co.uk/"+}
+@@ -174732 +174749 @@
+            "website": [-null-]{+"http://walfordmillpharmacy.co.uk/"+}
+@@ -230609 +230626 @@
+            "county": [-"",-]{+"West Yorkshire",+}
+@@ -230616 +230633,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -230620,2 +230654,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -230624 +230658 @@
+            "website": [-null-]{+"http://www.well.co.uk"+}
+@@ -230728 +230762 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -246941,5 +246975,5 @@
+            "city": [-"Cheshire",-]{+"Warrington",+}
+            "county": [-"",-]{+"Cheshire",+}
+            "line1": [-"70/72-]{+null,+}
+{+            "line2": "70-72+} Lodge Drive",[-"line2": "Culcheth",-]
+            "line3": [-"Warrington",-]{+"Culcheth",+}
+@@ -246949,3 +246983,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"01925 763 227",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -246953,2 +247004,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -246956,2 +247007,2 @@
+            "telephoneNumber": "01925 [-763227        ",-]{+763227",+}
+            "website": [-""-]{+"http://www.well.co.uk"+}
+@@ -247042 +247093 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -262442 +262493 @@
+            "city": [-"",-]{+"Derby",+}
+@@ -262446 +262497 @@
+            "line3": [-"Derby",-]{+null,+}
+@@ -262454,2 +262505,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -262458 +262509 @@
+            "website": [-"http://www.co-operative.coop/pharmacy"-]{+"http://www.well.co.uk"+}
+@@ -283071 +283122,10 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": null,+}
+{+                    "email": null,+}
+{+                    "fax": null,+}
+{+                    "name": "Molineux Pharmacy",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0191 2652711"+}
+{+                }+}
+{+            ],+}
+@@ -283073 +283133 @@
+            "fax": [-null,-]{+"0191 2196097",+}
+@@ -283075,2 +283135,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -283078,2 +283138,2 @@
+            "telephoneNumber": [-null,-]{+"0191 2196097",+}
+            "website": [-null-]{+"http://www.webchemist.co.uk/"+}
+@@ -283177 +283237 @@
+        "summary": [-null-]{+"<p>Molineux pharmacy is an independent community pharmacy offering a wide range of professional pharmacy services.</p><br /><p>We pride ourselves in delivering the best possible service to our patients. Our highly trained staff are on hand to offer free advice on the best treatment for a wide range of illnesses and minor ailments.</p><br /><p>If you are feeling under the weather pop in to see us and we will do our best to make you better. We can sign post you to other NHS services if needed.</p><br /><p>We dispense all NHS prescriptions from doctors and dentists. We also dispense private prescriptions including vetenary prescriptions.</p><br /><p>We have a private consultation room where our pharmacist can provide expert confidential advice.</p><br /><p>&nbsp;</p>"+}
+@@ -295316 +295376,6 @@
+                "saturday": [-[],-]{+[+}
+{+                    {+}
+{+                        "closes": "12:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+@@ -295320 +295385 @@
+                        "closes": [-"17:00",-]{+"18:30",+}
+@@ -328164,2 +328229,2 @@
+            "county": [-"",-]{+"Lancashire",+}
+            "line1": [-"340-]{+"388-390+} Ashton Road",
+@@ -328171 +328236,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -328173 +328255 @@
+            "fax": [-"0161 665 1011",-]{+null,+}
+@@ -328175,2 +328257,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -328179 +328261 @@
+            "website": [-null-]{+"http://www.well.co.uk"+}
+@@ -328257 +328339 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -354829,5 +354911,5 @@
+            "city": [-"Lancashire",-]{+"Warrington",+}
+            "county": [-"",-]{+"Lancashire",+}
+            "line1": {+null,+}
+{+            "line2":+} "97-99 High Street",[-"line2": "Golborne",-]
+            "line3": [-"Nr.Warrington",-]{+"Golborne",+}
+@@ -354837 +354919,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -354839 +354938 @@
+            "fax": [-"01942 726054",-]{+null,+}
+@@ -354841,2 +354940,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -354844,2 +354943,2 @@
+            "telephoneNumber": "01942 [-726054        ",-]{+726054",+}
+            "website": [-""-]{+"http://www.well.co.uk"+}
+@@ -354918 +355017 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -365154,2 +365253,2 @@
+            "city": [-"",-]{+"Alfreton",+}
+            "county": [-"",-]{+"Derbyshire",+}
+@@ -365166,2 +365265,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -365169,2 +365268,2 @@
+            "telephoneNumber": "01773 [-602239        ",-]{+602239",+}
+            "website": [-""-]{+"http://www.well.co.uk/"+}
+@@ -365793 +365892 @@
+            "line1": [-"Chadderton Town Health Centre",-]{+null,+}
+@@ -365799 +365898,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -365801 +365917 @@
+            "fax": [-"0161 624 2788",-]{+null,+}
+@@ -365803,2 +365919,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -365807 +365923 @@
+            "website": [-null-]{+"http://www.well.co.uk"+}
+@@ -365880 +365996 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -406884,2 +407000,2 @@
+            "city": {+"Dewsbury",+}
+{+            "county":+} "West Yorkshire",[-"county": "",-]
+@@ -406888 +407004 @@
+            "line3": [-"Dewsbury",-]{+null,+}
+@@ -406892,3 +407008,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"01924 461651",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -406896,2 +407029,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -406900 +407033 @@
+            "website": [-"http://www.co-operative.coop/pharmacy"-]{+"http://www.well.co.uk"+}
+@@ -407003 +407136 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -416299 +416432 @@
+            "line3": [-"",-]{+null,+}
+@@ -416303,3 +416436,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"01772 687763",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -416307,2 +416457,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -416310,2 +416460,2 @@
+            "telephoneNumber": "01772 [-686118        ",-]{+686118",+}
+            "website": [-""-]{+"http://www.well.co.uk"+}
+@@ -416396 +416546 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -421694,2 +421844,2 @@
+            "city": [-"Cheshire",-]{+"Stoke-on-Trent",+}
+            "county": [-"",-]{+"Cheshire",+}
+@@ -421698 +421848 @@
+            "line3": [-"",-]{+null,+}
+@@ -421702,3 +421852,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"01270 882361",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -421706,2 +421873,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -421709,2 +421876,2 @@
+            "telephoneNumber": "01270 [-882361        ",-]{+882361",+}
+            "website": [-"www.pharmacy.co.uk"-]{+"http://www.well.co.uk"+}
+@@ -421805 +421972 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -434512 +434679 @@
+            "city": [-"",-]{+"Bolton",+}
+@@ -434516 +434683 @@
+            "line3": [-"Bolton",-]{+null,+}
+@@ -434520 +434687,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -434524,2 +434708,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -434528 +434712 @@
+            "website": [-null-]{+"http://www.well.co.uk"+}
+@@ -434606 +434790 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -441730 +441914 @@
+            "city": [-"",-]{+"Bolton",+}
+@@ -441734 +441918 @@
+            "line3": [-"Bolton",-]{+"Blackrod",+}
+@@ -441739,2 +441923,2 @@
+            "email": [-null,-]{+"ashtonspharmacy@gmail.com",+}
+            "fax": [-null,-]{+"01942830799",+}
+@@ -441742,2 +441926,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -441745 +441929 @@
+            "telephoneNumber": [-"01942 830799",-]{+"01204292091",+}
+@@ -441778 +441962,37 @@
+        "openingTimes": [-null,-]{+{+}
+{+            "alterations": {},+}
+{+            "general": {+}
+{+                "friday": [+}
+{+                    {+}
+{+                        "closes": "17:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "monday": [+}
+{+                    {+}
+{+                        "closes": "17:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "saturday": [],+}
+{+                "sunday": [],+}
+{+                "thursday": [+}
+{+                    {+}
+{+                        "closes": "17:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "tuesday": [+}
+{+                    {+}
+{+                        "closes": "17:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ],+}
+{+                "wednesday": [+}
+{+                    {+}
+{+                        "closes": "17:00",+}
+{+                        "opens": "09:00"+}
+{+                    }+}
+{+                ]+}
+{+            }+}
+{+        },+}
+@@ -458338,2 +458558,2 @@
+            "city": [-"",-]{+"Ellesmere Port",+}
+            "county": [-"",-]{+"Cheshire",+}
+@@ -458341,2 +458561,2 @@
+            "line2": [-"",-]{+null,+}
+            "line3": [-"Ellesmere Port",-]{+null,+}
+@@ -458346,3 +458566,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"stationroad@Pwilliams.co.uk",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"0151 356 2305",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -458350,2 +458587,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -458354 +458591 @@
+            "website": [-""-]{+"http://www.well.co.uk"+}
+@@ -458464 +458701 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -484982 +485219,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -485068 +485322 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -485599 +485853,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -485601 +485872 @@
+            "fax": [-"0161 775 4856",-]{+null,+}
+@@ -485603,2 +485874,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -485607 +485878 @@
+            "website": [-null-]{+"http://www.well.co.uk"+}
+@@ -485685 +485956 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -497684 +497955 @@
+            "city": [-"",-]{+"Exmouth",+}
+@@ -497687 +497958 @@
+            "line2": [-"Exmouth",-]{+"",+}
+@@ -497731 +498002 @@
+        "name": [-"Smith Jr & Al",-]{+"Withycombe Pharmacy",+}
+@@ -562544,2 +562815,2 @@
+                        "closes": [-"18:30",-]{+"19:00",+}
+                        "opens": [-"08:45"-]{+"08:30"+}
+@@ -562550,2 +562821,2 @@
+                        "closes": [-"18:30",-]{+"19:00",+}
+                        "opens": [-"08:45"-]{+"08:30"+}
+@@ -562558,6 +562829,2 @@
+                        "closes": [-"13:00",-]{+"19:00",+}
+                        "opens": [-"09:00"-]
+[-                    },-]
+[-                    {-]
+[-                        "closes": "18:30",-]
+[-                        "opens": "14:15"-]{+"08:30"+}
+@@ -562568,2 +562835,2 @@
+                        "closes": [-"18:30",-]{+"19:00",+}
+                        "opens": [-"08:45"-]{+"08:30"+}
+@@ -562575 +562842 @@
+                        "opens": [-"08:45"-]{+"08:30"+}
+@@ -603845 +604112 @@
+                        "closes": [-"18:30",-]{+"19:00",+}
+@@ -603869 +604136 @@
+                        "closes": [-"18:30",-]{+"19:00",+}
+@@ -603875 +604142 @@
+                        "closes": [-"18:30",-]{+"19:00",+}
+@@ -606277 +606544 @@
+            "line2": [-"Orford Estate",-]{+"Orford",+}
+@@ -606282,3 +606549,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"14823014t@aah-point.com",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"01925 633 041",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -606286,2 +606570,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -606290 +606574 @@
+            "website": [-"http://www.co-operative.co.uk/pharmacy"-]{+"http://www.well.co.uk"+}
+@@ -606323,8 +606607 @@
+            "alterations": [-{-]
+[-                "2015-04-03": [],-]
+[-                "2015-04-05": [],-]
+[-                "2015-04-06": [],-]
+[-                "2015-05-04": [],-]
+[-                "2015-05-25": [],-]
+[-                "2015-08-31": []-]
+[-            },-]{+{},+}
+@@ -606334,4 +606610,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -606339 +606612 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -606344,4 +606616,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -606349 +606618 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -606361,4 +606629,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -606366 +606631 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -606371,4 +606635,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -606376 +606637 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -606381,4 +606641,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -606386 +606643 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -606395 +606652 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -619318 +619575 @@
+            "county": [-"",-]{+"Cheshire",+}
+@@ -619325 +619582,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -619327 +619601 @@
+            "fax": [-"01270 663815",-]{+null,+}
+@@ -619329,2 +619603,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -619333 +619607 @@
+            "website": [-null-]{+"http://www.well.co.uk"+}
+@@ -619413 +619687 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -655570,5 +655844,5 @@
+            "city": [-"Cheshire",-]{+"Warrington",+}
+            "county": [-"",-]{+"Lancashire",+}
+            "line1": {+null,+}
+{+            "line2":+} "62 High Street",[-"line2": "Golborne",-]
+            "line3": [-"Nr.Warrington",-]{+"Golborne",+}
+@@ -655578 +655852,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -655580 +655871 @@
+            "fax": [-"01942 728948",-]{+null,+}
+@@ -655582,2 +655873,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -655586 +655877 @@
+            "website": [-null-]{+"http://www.well.co.uk"+}
+@@ -655664 +655955 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -660075 +660366 @@
+                        "closes": [-"19:00",-]{+"18:00",+}
+@@ -667425 +667716 @@
+            "county": [-"",-]{+"Cheshire",+}
+@@ -667428 +667719 @@
+            "line3": [-"",-]{+null,+}
+@@ -667432,3 +667723,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"01625 525353",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -667436,2 +667744,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -667439,2 +667747,2 @@
+            "telephoneNumber": "01625 [-525353        ",-]{+525353",+}
+            "website": [-""-]{+"http://www.well.co.uk"+}
+@@ -667545 +667853 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -699547,6 +699855,2 @@
+                [-"2014-04-18":-]{+"2016-12-25":+} [],
+                [-"2014-04-20": [],-]
+[-                "2014-04-21": [],-]
+[-                "2014-05-05": [],-]
+[-                "2014-05-26": [],-]
+[-                "2014-08-25":-]{+"2016-12-26":+} []
+@@ -699557,3 +699861,5 @@
+                        "closes": [-"02:00",-]{+"23:59",+}
+                        "opens": [-"00:00"-]
+[-                    },-]{+"08:00"+}
+{+                    }+}
+{+                ],+}
+{+                "monday": [+}
+@@ -699561,3 +699867,5 @@
+                        "closes": [-"13:15",-]{+"20:00",+}
+                        "opens": [-"06:00"-]
+[-                    },-]{+"08:00"+}
+{+                    }+}
+{+                ],+}
+{+                "saturday": [+}
+@@ -699566 +699874 @@
+                        "opens": [-"14:15"-]{+"08:00"+}
+@@ -699569 +699877 @@
+                [-"monday":-]{+"sunday":+} [
+@@ -699571 +699879 @@
+                        "closes": [-"22:00",-]{+"23:59",+}
+@@ -699575,2 +699882,0 @@
+[-                "saturday": [],-]
+[-                "sunday": [],-]
+@@ -699585 +699891 @@
+                        "closes": [-"22:00",-]{+"20:00",+}
+@@ -699591 +699897 @@
+                        "closes": [-"22:00",-]{+"20:00",+}
+@@ -758548,5 +758854,5 @@
+            "city": [-"Cheshire",-]{+"Congleton",+}
+            "county": [-"",-]{+"Cheshire",+}
+            "line1": {+null,+}
+{+            "line2":+} "1 Park Lane",[-"line2": "Congleton",-]
+            "line3": [-"",-]{+null,+}
+@@ -758556,3 +758862,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"hccongleton@coop.co.uk",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"01260 280810",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -758560,2 +758883,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -758563,2 +758886,2 @@
+            "telephoneNumber": "01260 [-280810        ",-]{+280810",+}
+            "website": [-"www.pharmacy.co.uk"-]{+"http://www.well.co.uk"+}
+@@ -758649 +758972 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -788877 +789200,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -788879 +789219 @@
+            "fax": [-"016973 42445",-]{+null,+}
+@@ -788881,2 +789221,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -788884,2 +789224,2 @@
+            "telephoneNumber": [-"016973 42445",-]{+"01697 342445",+}
+            "website": [-""-]{+"http://www.well.co.uk"+}
+@@ -788963 +789303 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -819673,5 +820013,5 @@
+            "city": [-"",-]{+"Luton",+}
+            "county": [-"",-]{+"Bedfordshire",+}
+            "line1": {+null,+}
+{+            "line2":+} "60 Denbigh Road",[-"line2": "Luton",-]
+            "line3": [-"",-]{+null,+}
+@@ -819682,2 +820022,2 @@
+            "email": [-"",-]{+"contactus@denbighpharmacy.co.uk",+}
+            "fax": [-"",-]{+"01582 571457",+}
+@@ -819685,2 +820025,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -819688,2 +820028,2 @@
+            "telephoneNumber": "01582 [-571457        ",-]{+571457",+}
+            "website": [-""-]{+"http://www.denbighpharmacy.co.uk"+}
+@@ -819856 +820196 @@
+        "summary": "<p><strong>Denbigh</strong> <strong>Pharmacy</strong> is a   <strong>Pharmacy</strong> Led Health &amp; Beauty retailer based in Luton. We have been  providing Professional Friendly Advice &amp; Service \"7 Days  a week\" to  the local community since 1995.&nbsp;</p><br /><p>We are Open 7 Days a Week and all Bank Holidays[-( 10am - 4pm)-] except Christmas [-Day. <br-]{+Day.&nbsp;</p><br /><p>Monday - Saturday: 9am - 1pm &amp; 2pm - 7pm</p><br /><p>Sunday &amp; Bank Holidays: 10am -4pm<br+} /><br />We pride ourselves on our  commitment to provide the highest standard of customer service to all  our new and existing customers from dispensing NHS / Private  prescriptions, providing healthcare advice to catering for your everyday  Health &amp; Beauty needs, whether it be an everyday essential product   or a scent to make you smell - feel good.</p>"
+@@ -879547 +879887 @@
+            "county": [-"",-]{+"West Yorkshire",+}
+@@ -879549,2 +879889,2 @@
+            "line2": [-"",-]{+null,+}
+            "line3": [-"",-]{+"Roundhay",+}
+@@ -879554,3 +879894,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"0113 2252009",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": null,+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -879558,2 +879915,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -879562 +879919 @@
+            "website": [-""-]{+"http://www.well.co.uk"+}
+@@ -879659 +880016 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -883967 +884324,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -883971,2 +884345,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -883975 +884349 @@
+            "website": [-null-]{+"http://www.well.co.uk"+}
+@@ -884008,7 +884382 @@
+            "alterations": [-{-]
+[-                "2013-03-29": [],-]
+[-                "2013-04-01": [],-]
+[-                "2013-05-06": [],-]
+[-                "2013-05-27": [],-]
+[-                "2013-08-26": []-]
+[-            },-]{+{},+}
+@@ -884018,4 +884385,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -884023 +884387 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -884028,4 +884391,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -884033,6 +884392,0 @@
+[-                        "opens": "14:00"-]
+[-                    }-]
+[-                ],-]
+[-                "saturday": [-]
+[-                    {-]
+[-                        "closes": "13:00",-]
+@@ -884041,0 +884396 @@
+                {+"saturday": [],+}
+@@ -884045,4 +884399,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -884050 +884401 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -884055,4 +884405,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -884060 +884407 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -884065,4 +884411,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -884070 +884413 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -884079 +884422 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -896807 +897150 @@
+            "fax": "0151 [-2602590",-]{+263 2403",+}
+@@ -896809,2 +897152,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -943746 +944089 @@
+            "line3": [-"",-]{+null,+}
+@@ -943750,3 +944093,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -943754,2 +944114,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -943757,2 +944117,2 @@
+            "telephoneNumber": "01977 [-552603        ",-]{+552603",+}
+            "website": [-""-]{+"http://www.well.co.uk"+}
+@@ -943861 +944221 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -992629,4 +992988,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -992634 +992990 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -992639,4 +992994,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -992644 +992996 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -992651,4 +993002,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -992656 +993004 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -992661,4 +993008,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -992666 +993010 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -992671,4 +993014,0 @@
+[-                        "closes": "13:00",-]
+[-                        "opens": "09:00"-]
+[-                    },-]
+[-                    {-]
+@@ -992676 +993016 @@
+                        "opens": [-"14:00"-]{+"09:00"+}
+@@ -992685 +993025 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -994188 +994528 @@
+            "line3": [-"",-]{+null,+}
+@@ -994192,3 +994532,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -994196,2 +994553,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -994199,2 +994556,2 @@
+            "telephoneNumber": [-"0500 970 201",-]{+"0113 250 2312",+}
+            "website": [-""-]{+"http://www.well.co.uk"+}
+@@ -994303 +994660 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -1051124,5 +1051481,5 @@
+            "city": [-"",-]{+"Ellesmere Port",+}
+            "county": [-"",-]{+"Cheshire",+}
+            "line1": {+null,+}
+{+            "line2":+} "54-56 Loxdale Drive",[-"line2": "Ellesmere Port",-]
+            "line3": [-"Cheshire",-]{+null,+}
+@@ -1051132,3 +1051489,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"hcloxdaledrive@coop.co.uk",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"0151 355 4004",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -1051136,2 +1051510,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -1051140 +1051514 @@
+            "website": [-"http://www.theco-operative.coop.co.uk"-]{+"http://www.well.co.uk"+}
+@@ -1051225 +1051599 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -1076372,4 +1076746,4 @@
+            "county": [-"",-]{+"Cumbria",+}
+            "line1": {+"Staveley Pharmacy",+}
+{+            "line2":+} "6 Main Street",[-"line2": "Staveley",-]
+            "line3": [-null,-]{+"Staveley",+}
+@@ -1076381 +1076755 @@
+            "fax": "01539 [-822388",-]{+822 388",+}
+@@ -1076383,2 +1076757,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -1076386 +1076760 @@
+            "telephoneNumber": "01539 [-821222",-]{+821 222",+}
+@@ -1081806 +1082180 @@
+            "line3": [-"",-]{+null,+}
+@@ -1081810,3 +1082184,20 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+                    "email": [-"10218137v@aah-point.com",-]{+"Yourexperience@well.co.uk",+}
+                    "fax": [-"0191 3731216",-]{+null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+{+            "email": null,+}
+{+            "fax": null,+}
+@@ -1081814,2 +1082205,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -1081818 +1082209 @@
+            "website": [-""-]{+"http://www.well.co.uk"+}
+@@ -1081851,19 +1082242 @@
+            "alterations": [-{-]
+[-                "2011-12-24": [-]
+[-                    {-]
+[-                        "closes": "12:30",-]
+[-                        "opens": "08:45"-]
+[-                    }-]
+[-                ],-]
+[-                "2011-12-25": [],-]
+[-                "2011-12-26": [],-]
+[-                "2011-12-27": [],-]
+[-                "2011-12-31": [-]
+[-                    {-]
+[-                        "closes": "12:30",-]
+[-                        "opens": "08:45"-]
+[-                    }-]
+[-                ],-]
+[-                "2012-01-01": [],-]
+[-                "2012-01-02": []-]
+[-            },-]{+{},+}
+@@ -1081873,2 +1082246,2 @@
+                        "closes": [-"18:00",-]{+"17:30",+}
+                        "opens": [-"08:30"-]{+"08:45"+}
+@@ -1081879,2 +1082252,2 @@
+                        "closes": [-"18:00",-]{+"17:30",+}
+                        "opens": [-"08:30"-]{+"08:45"+}
+@@ -1081892,2 +1082265,2 @@
+                        "closes": [-"18:00",-]{+"17:30",+}
+                        "opens": [-"08:30"-]{+"08:45"+}
+@@ -1081898,2 +1082271,2 @@
+                        "closes": [-"18:00",-]{+"17:30",+}
+                        "opens": [-"08:30"-]{+"08:45"+}
+@@ -1081904,2 +1082277,2 @@
+                        "closes": [-"18:00",-]{+"17:30",+}
+                        "opens": [-"08:30"-]{+"08:45"+}
+@@ -1081914 +1082287 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
+@@ -1216413 +1216786 @@
+        "outOfHours": [-"",-]{+"<p>Please refer to the NHS Choices website section \"Out-of-Hours Medicines\". This can be found at:</p><br /><p>http://www.nhs.uk/Livewell/Pharmacy/Pages/Medicinesoutofhours.aspx</p>",+}
+@@ -1216416 +1216789 @@
+        "summary": [-""-]{+"<p>Aldermans Pharmacy is a long established independent local community pharmacy.</p>"+}
+@@ -1243281,5 +1243654,5 @@
+            "city": [-"",-]{+"Northallerton",+}
+            "county": [-"",-]{+"North Yorkshire",+}
+            "line1": {+null,+}
+{+            "line2":+} "Boroughbridge Road",[-"line2": "Northallerton",-]
+            "line3": [-"North Yorkshire",-]{+null,+}
+@@ -1243289 +1243662,18 @@
+            "additionalContacts": [-[],-]{+[+}
+{+                {+}
+{+                    "description": "If you have any queries or comments about your customer service experience in this store then please e-mail or call us using the details below.",+}
+{+                    "email": "Yourexperience@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "Customer Care team",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0333 010 2222"+}
+{+                },+}
+{+                {+}
+{+                    "description": "For all general or business queries, please contact our head office switchboard using the details below.",+}
+{+                    "email": "MerchantsFrontofHouse@well.co.uk",+}
+{+                    "fax": null,+}
+{+                    "name": "General and Business queries",+}
+{+                    "telephoneExtension": null,+}
+{+                    "telephoneNumber": "0161 259 9100"+}
+{+                }+}
+{+            ],+}
+@@ -1243291 +1243681 @@
+            "fax": [-"01609 776727",-]{+null,+}
+@@ -1243293,2 +1243683,2 @@
+            "phoneChargeAmount": [-null,-]{+0,+}
+            "phoneChargeMethod": [-"unknown method",-]{+"flat-rate",+}
+@@ -1243297 +1243687 @@
+            "website": [-""-]{+"http://www.well.co.uk"+}
+@@ -1243375 +1243765 @@
+        "summary": [-""-]{+"<p>We are Well. We&rsquo;re one of the UK&rsquo;s leading pharmacy chains with 780 branches across the country. We aim to be the preferred local pharmacy at the heart of the communities we serve.</p><br /><p>As well as dispensing prescriptions and over-the-counter medicines, our trained pharmacists can provide personalised advice, products and services so that every customer can make the most of their health and wellbeing.</p><br /><p>Drop into store to see how we can help or alternatively click on the &lsquo;Departments and services&rsquo; tab to view the list of services available at this particular store.</p><br /><p><strong>&nbsp;</strong><em>&nbsp;</em></p><br /><p>&nbsp;</p>"+}
